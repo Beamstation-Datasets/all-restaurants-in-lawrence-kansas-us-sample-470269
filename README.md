@@ -9,9 +9,9 @@
 | Dataset ID | `470269` |
 | Location | Lawrence |
 | Category | Restaurants |
-| Full dataset size | 254 records |
-| Free sample size | 25 records (9.84%) |
-| Last export | 2026-04-07T11:02:39.787990+00:00 |
+| Full dataset size | 252 records |
+| Free sample size | 25 records (9.92%) |
+| Last export | 2026-04-14T10:56:54.138805+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-lawrence-kansas-us-sample-470269/releases/download/sample-latest/beamstation_470269_restaurants-us-ks_SAMPLE_DIST.csv) |
 
 ## What is in this sample
