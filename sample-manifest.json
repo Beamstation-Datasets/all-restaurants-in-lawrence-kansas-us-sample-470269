@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a089cb58-a81b-4e0c-9a00-d55d0d22b362",
+  "export_job_id": "bbaca11f-adc3-47a5-929e-81936d34ed4e",
   "id_short": 470269,
-  "published_at": "2026-04-17T07:22:05Z",
+  "published_at": "2026-04-17T19:31:21Z",
   "repo_name": "all-restaurants-in-lawrence-kansas-us-sample-470269",
   "sample_asset_name": "beamstation_470269_restaurants-us-ks_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/470269/beamstation_470269_restaurants-us-ks_SAMPLE_DIST.csv",
   "sample_records": 25,
   "sample_sha256": "579c541275b302190f9fc2538e574d8e84d02e82cf192b6c1532cf43ca3a354c",
   "sample_size_bytes": 107634,
-  "total_records": 254
+  "total_records": 252
 }
